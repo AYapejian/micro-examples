@@ -4,7 +4,7 @@
 #define PIN_DISPLAY_CLOCK D2
 #define PIN_DISPLAY_DATA D1
 
-// U8g2 Contructor list is available here: https://github.com/olikraus/u8g2/wiki/u8g2setupcpp
+// U8g2 Constructor list is available here: https://github.com/olikraus/u8g2/wiki/u8g2setupcpp
 U8G2_SSD1306_128X64_NONAME_F_SW_I2C u8g2(U8G2_R0, PIN_DISPLAY_CLOCK, PIN_DISPLAY_DATA, U8X8_PIN_NONE);
 
 

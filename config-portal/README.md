@@ -6,7 +6,7 @@ Example: Starts a WiFi Access Point to allow for initial configuration
 3. Should be redirected to allow selecting / entering WiFi credentials
 4. After connection is successful LED status goes green
 
-NOTE: To reset after entering credentials hold down button (Default Pin 4) while powering/reseting the chip
+NOTE: To reset after entering credentials hold down button (Default Pin 4) while powering/resetting the chip
 
 # Libraries
 * [WiFiManager](https://github.com/tzapu/WiFiManager/)

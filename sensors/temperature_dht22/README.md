@@ -1,5 +1,5 @@
 # Example
-Adafruit library example reading DHT22 (and similiar) temperature and humidity.
+Adafruit library example reading DHT22 (and similar) temperature and humidity.
 
 # Usage
 1. Wire per 'wiring' below
