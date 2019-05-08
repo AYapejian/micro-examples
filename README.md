@@ -1,6 +1,6 @@
 # Micro Examples
 
-This repository is serving as a cheatsheet of sorts, taking from many sources and transposing into a collection of runnable examples using [platform.io](https://platformio.org) and mostly targetting esp8266 dev boards, although with platformio should be easily adaptable.
+This repository is serving as a cheatsheet of sorts, taking from many sources and transposing into a collection of runnable examples using [platform.io](https://platformio.org) and mostly targeting esp8266 dev boards, although with platformio should be easily adaptable.
 
 # Compiling / Running
 1. Copy `_config/secrets.template.h` as `_config/secrets.h` and fill in with your credentials as needed.

@@ -18,4 +18,4 @@ GND-GND
 SDA-SDA(D2)
 SCL-SCL(D1)
 VCC-3.3V
-ADD-NC <-- to asign a different I2C address to the sensor
+ADD-NC <-- to assign a different I2C address to the sensor
